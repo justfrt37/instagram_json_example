@@ -5,7 +5,7 @@
       "user": {
         "user_id": 1,
         "username": "john_doe",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Enjoying a beautiful day at the beach! #sunny #vacation",
@@ -26,7 +26,7 @@
           "user": {
             "user_id": 3,
             "username": "mark_lee",
-            "profile_picture_url": "https://picsum.photos/600/400"
+            "profile_picture_url": "https://picsum.photos/200/200"
           },
           "text": "The beach looks perfect!",
           "timestamp": "2024-11-09T13:10:00Z"
@@ -38,7 +38,7 @@
       "user": {
         "user_id": 4,
         "username": "emily_wong",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Lunch with friends! 🍕 #goodtimes #friends",
@@ -61,7 +61,7 @@
       "user": {
         "user_id": 6,
         "username": "michael_brown",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Hiking through the mountains, feeling on top of the world! 🏞️ #adventure #nature",
@@ -84,7 +84,7 @@
       "user": {
         "user_id": 8,
         "username": "david_jones",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Night out with the boys! 🍻 #goodtimes #friends",
@@ -107,7 +107,7 @@
       "user": {
         "user_id": 10,
         "username": "olivia_king",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Cooking up some delicious pasta tonight! 🍝 #foodie #yum",
@@ -130,7 +130,7 @@
       "user": {
         "user_id": 12,
         "username": "susan_taylor",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "A peaceful sunset by the lake. 🌅 #serenity #peaceful",
@@ -153,7 +153,7 @@
       "user": {
         "user_id": 14,
         "username": "matthew_smith",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Just finished an intense workout! 💪 #fitness #motivation",
@@ -176,7 +176,7 @@
       "user": {
         "user_id": 16,
         "username": "nina_wood",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Visiting the zoo today! 🦁 #animals #zoolife",
@@ -199,7 +199,7 @@
       "user": {
         "user_id": 18,
         "username": "jessica_brown",
-        "profile_picture_url": "https://picsum.photos/600/400"
+        "profile_picture_url": "https://picsum.photos/200/200"
       },
       "image_url": "https://picsum.photos/600/400",
       "caption": "Morning coffee to start the day! ☕ #coffee #morningvibes",
