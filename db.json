@@ -216,24 +216,6 @@
           "timestamp": "2024-11-09T21:00:50Z"
         }
       ]
-    },
-    {
-      "post_id": 10,
-      "user": {
-        "user_id": 20,
-        "username": "sophia_johnson",
-        "profile_picture_url": "https://example.com/images/sophia_johnson.jpg"
-      },
-      "image_url": "https://example.com/images/post10.jpg",
-      "caption": "Exploring the city today! 🏙️ #citylife #wanderlust",
-      "likes": 90,
-      "comments": [
-        {
-          "comment_id": 1,
-          "user": {
-            "user_id": 21,
-            "username": "alex_garcia",
-            "profile_picture_url": "https://example.com/images/alex_garcia.jpg"
-          },
-          "text": "City looks amazing! Where is this? 🌆",
-          "timestamp": "
+    }
+  ]
+}
